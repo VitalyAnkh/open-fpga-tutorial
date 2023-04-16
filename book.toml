@@ -1,6 +1,0 @@
-[book]
-authors = ["vitalyr"]
-language = "zh_CN"
-multilingual = true
-src = "src"
-title = "Open FPGA Tutorial"
