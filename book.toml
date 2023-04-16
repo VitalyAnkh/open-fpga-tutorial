@@ -1,6 +1,9 @@
 [book]
-authors = ["vitalyr"]
+authors = ["VitalyR"]
 language = "zh_CN"
 multilingual = true
 src = "src"
 title = "Open FPGA Tutorial"
+
+[output.html]
+git-repository-url = "https://github.com/VitalyAnkh/open-fpga-tutorial"
