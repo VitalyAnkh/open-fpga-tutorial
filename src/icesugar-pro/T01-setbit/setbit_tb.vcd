@@ -1,0 +1,21 @@
+$date
+	Fri Apr 14 11:05:51 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module setbit_tb $end
+$var wire 1 ! A $end
+$scope module SB1 $end
+$var wire 1 ! A $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+$end
+#20
